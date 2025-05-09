@@ -1,3 +1,22 @@
-[
-    { "id": "FyeCn7HlLck", "title": "🚀 Space Exploration Basics" }
-]
+{
+    "Math": {
+        "Addition": [
+            { "id": "A1B2C3D4E5", "title": "➕ Basic Addition Explained" },
+            { "id": "F6G7H8I9J0", "title": "➕ Fun Addition Tricks" }
+        ],
+        "Subtraction": [
+            { "id": "K1L2M3N4O5", "title": "➖ Understanding Subtraction" },
+            { "id": "P6Q7R8S9T0", "title": "➖ Subtraction Hacks" }
+        ]
+    },
+    "Science": {
+        "Physics": [
+            { "id": "U1V2W3X4Y5", "title": "⚛️ Intro to Physics" },
+            { "id": "Z1A2B3C4D5", "title": "⚛️ Newton's Laws Explained" }
+        ],
+        "Chemistry": [
+            { "id": "E6F7G8H9I0", "title": "🧪 Chemical Reactions Basics" },
+            { "id": "J1K2L3M4N5", "title": "🧪 Fun Chemistry Experiments" }
+        ]
+    }
+}
