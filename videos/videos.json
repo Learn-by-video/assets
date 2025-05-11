@@ -1,9 +1,11 @@
 {
   "Math": {
     "Multiplication": [
-      { "id": "GKetIwxaenA", "title": "Math - Long Multiplication" },
       {
-      
+        "id": "GKetIwxaenA",
+        "title": "Math - Long Multiplication"
+      },
+      {
         "id": "KzURNxfKJGs",
         "title": "Are We Ready for 6th Grade Math?"
       },
